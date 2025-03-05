@@ -4,7 +4,9 @@
 
 A powerful analytics dashboard for Codeforces users, providing deep insights into problem-solving patterns and competitive programming performance.
 
-![Demo Screenshot](https://via.placeholder.com/800x400.png?text=Codeforces+Profile+Analyzer+Demo) *Add your screenshot later*
+
+![Demo Screenshot](![image](https://github.com/user-attachments/assets/d0db42f4-236f-4446-87d5-364c45184e68)
+) 
 
 ## Features ✨
 
